@@ -1,0 +1,15 @@
+E:\c_sharp\code_1\bin\Debug\net7.0\code_1.exe
+E:\c_sharp\code_1\bin\Debug\net7.0\code_1.deps.json
+E:\c_sharp\code_1\bin\Debug\net7.0\code_1.runtimeconfig.json
+E:\c_sharp\code_1\bin\Debug\net7.0\code_1.dll
+E:\c_sharp\code_1\bin\Debug\net7.0\code_1.pdb
+E:\c_sharp\code_1\obj\Debug\net7.0\code_1.csproj.AssemblyReference.cache
+E:\c_sharp\code_1\obj\Debug\net7.0\code_1.GeneratedMSBuildEditorConfig.editorconfig
+E:\c_sharp\code_1\obj\Debug\net7.0\code_1.AssemblyInfoInputs.cache
+E:\c_sharp\code_1\obj\Debug\net7.0\code_1.AssemblyInfo.cs
+E:\c_sharp\code_1\obj\Debug\net7.0\code_1.csproj.CoreCompileInputs.cache
+E:\c_sharp\code_1\obj\Debug\net7.0\code_1.dll
+E:\c_sharp\code_1\obj\Debug\net7.0\refint\code_1.dll
+E:\c_sharp\code_1\obj\Debug\net7.0\code_1.pdb
+E:\c_sharp\code_1\obj\Debug\net7.0\code_1.genruntimeconfig.cache
+E:\c_sharp\code_1\obj\Debug\net7.0\ref\code_1.dll
