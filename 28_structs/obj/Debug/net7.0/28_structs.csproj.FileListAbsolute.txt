@@ -1,0 +1,15 @@
+E:\c_sharp\28_structs\bin\Debug\net7.0\28_structs.exe
+E:\c_sharp\28_structs\bin\Debug\net7.0\28_structs.deps.json
+E:\c_sharp\28_structs\bin\Debug\net7.0\28_structs.runtimeconfig.json
+E:\c_sharp\28_structs\bin\Debug\net7.0\28_structs.dll
+E:\c_sharp\28_structs\bin\Debug\net7.0\28_structs.pdb
+E:\c_sharp\28_structs\obj\Debug\net7.0\28_structs.csproj.AssemblyReference.cache
+E:\c_sharp\28_structs\obj\Debug\net7.0\28_structs.GeneratedMSBuildEditorConfig.editorconfig
+E:\c_sharp\28_structs\obj\Debug\net7.0\28_structs.AssemblyInfoInputs.cache
+E:\c_sharp\28_structs\obj\Debug\net7.0\28_structs.AssemblyInfo.cs
+E:\c_sharp\28_structs\obj\Debug\net7.0\28_structs.csproj.CoreCompileInputs.cache
+E:\c_sharp\28_structs\obj\Debug\net7.0\28_structs.dll
+E:\c_sharp\28_structs\obj\Debug\net7.0\refint\28_structs.dll
+E:\c_sharp\28_structs\obj\Debug\net7.0\28_structs.pdb
+E:\c_sharp\28_structs\obj\Debug\net7.0\28_structs.genruntimeconfig.cache
+E:\c_sharp\28_structs\obj\Debug\net7.0\ref\28_structs.dll
