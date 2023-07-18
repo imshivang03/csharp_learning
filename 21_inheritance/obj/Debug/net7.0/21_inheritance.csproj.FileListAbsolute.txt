@@ -1,0 +1,15 @@
+E:\c_sharp\21_inheritance\obj\Debug\net7.0\21_inheritance.csproj.AssemblyReference.cache
+E:\c_sharp\21_inheritance\obj\Debug\net7.0\21_inheritance.GeneratedMSBuildEditorConfig.editorconfig
+E:\c_sharp\21_inheritance\obj\Debug\net7.0\21_inheritance.AssemblyInfoInputs.cache
+E:\c_sharp\21_inheritance\obj\Debug\net7.0\21_inheritance.AssemblyInfo.cs
+E:\c_sharp\21_inheritance\obj\Debug\net7.0\21_inheritance.csproj.CoreCompileInputs.cache
+E:\c_sharp\21_inheritance\bin\Debug\net7.0\21_inheritance.exe
+E:\c_sharp\21_inheritance\bin\Debug\net7.0\21_inheritance.deps.json
+E:\c_sharp\21_inheritance\bin\Debug\net7.0\21_inheritance.runtimeconfig.json
+E:\c_sharp\21_inheritance\bin\Debug\net7.0\21_inheritance.dll
+E:\c_sharp\21_inheritance\bin\Debug\net7.0\21_inheritance.pdb
+E:\c_sharp\21_inheritance\obj\Debug\net7.0\21_inheritance.dll
+E:\c_sharp\21_inheritance\obj\Debug\net7.0\refint\21_inheritance.dll
+E:\c_sharp\21_inheritance\obj\Debug\net7.0\21_inheritance.pdb
+E:\c_sharp\21_inheritance\obj\Debug\net7.0\21_inheritance.genruntimeconfig.cache
+E:\c_sharp\21_inheritance\obj\Debug\net7.0\ref\21_inheritance.dll

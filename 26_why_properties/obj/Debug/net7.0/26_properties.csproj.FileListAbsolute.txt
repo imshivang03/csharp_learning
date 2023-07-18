@@ -1,0 +1,15 @@
+E:\c_sharp\26_properties\obj\Debug\net7.0\26_properties.csproj.AssemblyReference.cache
+E:\c_sharp\26_properties\obj\Debug\net7.0\26_properties.GeneratedMSBuildEditorConfig.editorconfig
+E:\c_sharp\26_properties\obj\Debug\net7.0\26_properties.AssemblyInfoInputs.cache
+E:\c_sharp\26_properties\obj\Debug\net7.0\26_properties.AssemblyInfo.cs
+E:\c_sharp\26_properties\obj\Debug\net7.0\26_properties.csproj.CoreCompileInputs.cache
+E:\c_sharp\26_properties\bin\Debug\net7.0\26_properties.exe
+E:\c_sharp\26_properties\bin\Debug\net7.0\26_properties.deps.json
+E:\c_sharp\26_properties\bin\Debug\net7.0\26_properties.runtimeconfig.json
+E:\c_sharp\26_properties\bin\Debug\net7.0\26_properties.dll
+E:\c_sharp\26_properties\bin\Debug\net7.0\26_properties.pdb
+E:\c_sharp\26_properties\obj\Debug\net7.0\26_properties.dll
+E:\c_sharp\26_properties\obj\Debug\net7.0\refint\26_properties.dll
+E:\c_sharp\26_properties\obj\Debug\net7.0\26_properties.pdb
+E:\c_sharp\26_properties\obj\Debug\net7.0\26_properties.genruntimeconfig.cache
+E:\c_sharp\26_properties\obj\Debug\net7.0\ref\26_properties.dll

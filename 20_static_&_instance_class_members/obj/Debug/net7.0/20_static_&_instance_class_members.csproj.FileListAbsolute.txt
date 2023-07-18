@@ -1,0 +1,15 @@
+E:\c_sharp\20_static_&_instance_class_members\bin\Debug\net7.0\20_static_&_instance_class_members.exe
+E:\c_sharp\20_static_&_instance_class_members\bin\Debug\net7.0\20_static_&_instance_class_members.deps.json
+E:\c_sharp\20_static_&_instance_class_members\bin\Debug\net7.0\20_static_&_instance_class_members.runtimeconfig.json
+E:\c_sharp\20_static_&_instance_class_members\bin\Debug\net7.0\20_static_&_instance_class_members.dll
+E:\c_sharp\20_static_&_instance_class_members\bin\Debug\net7.0\20_static_&_instance_class_members.pdb
+E:\c_sharp\20_static_&_instance_class_members\obj\Debug\net7.0\20_static_&_instance_class_members.csproj.AssemblyReference.cache
+E:\c_sharp\20_static_&_instance_class_members\obj\Debug\net7.0\20_static_&_instance_class_members.GeneratedMSBuildEditorConfig.editorconfig
+E:\c_sharp\20_static_&_instance_class_members\obj\Debug\net7.0\20_static_&_instance_class_members.AssemblyInfoInputs.cache
+E:\c_sharp\20_static_&_instance_class_members\obj\Debug\net7.0\20_static_&_instance_class_members.AssemblyInfo.cs
+E:\c_sharp\20_static_&_instance_class_members\obj\Debug\net7.0\20_static_&_instance_class_members.csproj.CoreCompileInputs.cache
+E:\c_sharp\20_static_&_instance_class_members\obj\Debug\net7.0\20_static_&_instance_class_members.dll
+E:\c_sharp\20_static_&_instance_class_members\obj\Debug\net7.0\refint\20_static_&_instance_class_members.dll
+E:\c_sharp\20_static_&_instance_class_members\obj\Debug\net7.0\20_static_&_instance_class_members.pdb
+E:\c_sharp\20_static_&_instance_class_members\obj\Debug\net7.0\20_static_&_instance_class_members.genruntimeconfig.cache
+E:\c_sharp\20_static_&_instance_class_members\obj\Debug\net7.0\ref\20_static_&_instance_class_members.dll

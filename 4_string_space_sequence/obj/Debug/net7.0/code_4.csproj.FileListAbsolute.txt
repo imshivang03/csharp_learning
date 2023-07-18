@@ -1,0 +1,15 @@
+E:\c_sharp\code_4\bin\Debug\net7.0\code_4.exe
+E:\c_sharp\code_4\bin\Debug\net7.0\code_4.deps.json
+E:\c_sharp\code_4\bin\Debug\net7.0\code_4.runtimeconfig.json
+E:\c_sharp\code_4\bin\Debug\net7.0\code_4.dll
+E:\c_sharp\code_4\bin\Debug\net7.0\code_4.pdb
+E:\c_sharp\code_4\obj\Debug\net7.0\code_4.csproj.AssemblyReference.cache
+E:\c_sharp\code_4\obj\Debug\net7.0\code_4.GeneratedMSBuildEditorConfig.editorconfig
+E:\c_sharp\code_4\obj\Debug\net7.0\code_4.AssemblyInfoInputs.cache
+E:\c_sharp\code_4\obj\Debug\net7.0\code_4.AssemblyInfo.cs
+E:\c_sharp\code_4\obj\Debug\net7.0\code_4.csproj.CoreCompileInputs.cache
+E:\c_sharp\code_4\obj\Debug\net7.0\code_4.dll
+E:\c_sharp\code_4\obj\Debug\net7.0\refint\code_4.dll
+E:\c_sharp\code_4\obj\Debug\net7.0\code_4.pdb
+E:\c_sharp\code_4\obj\Debug\net7.0\code_4.genruntimeconfig.cache
+E:\c_sharp\code_4\obj\Debug\net7.0\ref\code_4.dll

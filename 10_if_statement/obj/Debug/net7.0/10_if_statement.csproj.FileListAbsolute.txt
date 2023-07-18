@@ -1,0 +1,15 @@
+E:\c_sharp\10_if_statement\bin\Debug\net7.0\10_if_statement.exe
+E:\c_sharp\10_if_statement\bin\Debug\net7.0\10_if_statement.deps.json
+E:\c_sharp\10_if_statement\bin\Debug\net7.0\10_if_statement.runtimeconfig.json
+E:\c_sharp\10_if_statement\bin\Debug\net7.0\10_if_statement.dll
+E:\c_sharp\10_if_statement\bin\Debug\net7.0\10_if_statement.pdb
+E:\c_sharp\10_if_statement\obj\Debug\net7.0\10_if_statement.csproj.AssemblyReference.cache
+E:\c_sharp\10_if_statement\obj\Debug\net7.0\10_if_statement.GeneratedMSBuildEditorConfig.editorconfig
+E:\c_sharp\10_if_statement\obj\Debug\net7.0\10_if_statement.AssemblyInfoInputs.cache
+E:\c_sharp\10_if_statement\obj\Debug\net7.0\10_if_statement.AssemblyInfo.cs
+E:\c_sharp\10_if_statement\obj\Debug\net7.0\10_if_statement.csproj.CoreCompileInputs.cache
+E:\c_sharp\10_if_statement\obj\Debug\net7.0\10_if_statement.dll
+E:\c_sharp\10_if_statement\obj\Debug\net7.0\refint\10_if_statement.dll
+E:\c_sharp\10_if_statement\obj\Debug\net7.0\10_if_statement.pdb
+E:\c_sharp\10_if_statement\obj\Debug\net7.0\10_if_statement.genruntimeconfig.cache
+E:\c_sharp\10_if_statement\obj\Debug\net7.0\ref\10_if_statement.dll

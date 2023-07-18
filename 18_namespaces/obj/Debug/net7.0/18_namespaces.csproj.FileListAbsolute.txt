@@ -1,0 +1,15 @@
+E:\c_sharp\18_namespaces\bin\Debug\net7.0\18_namespaces.exe
+E:\c_sharp\18_namespaces\bin\Debug\net7.0\18_namespaces.deps.json
+E:\c_sharp\18_namespaces\bin\Debug\net7.0\18_namespaces.runtimeconfig.json
+E:\c_sharp\18_namespaces\bin\Debug\net7.0\18_namespaces.dll
+E:\c_sharp\18_namespaces\bin\Debug\net7.0\18_namespaces.pdb
+E:\c_sharp\18_namespaces\obj\Debug\net7.0\18_namespaces.csproj.AssemblyReference.cache
+E:\c_sharp\18_namespaces\obj\Debug\net7.0\18_namespaces.GeneratedMSBuildEditorConfig.editorconfig
+E:\c_sharp\18_namespaces\obj\Debug\net7.0\18_namespaces.AssemblyInfoInputs.cache
+E:\c_sharp\18_namespaces\obj\Debug\net7.0\18_namespaces.AssemblyInfo.cs
+E:\c_sharp\18_namespaces\obj\Debug\net7.0\18_namespaces.csproj.CoreCompileInputs.cache
+E:\c_sharp\18_namespaces\obj\Debug\net7.0\18_namespaces.dll
+E:\c_sharp\18_namespaces\obj\Debug\net7.0\refint\18_namespaces.dll
+E:\c_sharp\18_namespaces\obj\Debug\net7.0\18_namespaces.pdb
+E:\c_sharp\18_namespaces\obj\Debug\net7.0\18_namespaces.genruntimeconfig.cache
+E:\c_sharp\18_namespaces\obj\Debug\net7.0\ref\18_namespaces.dll

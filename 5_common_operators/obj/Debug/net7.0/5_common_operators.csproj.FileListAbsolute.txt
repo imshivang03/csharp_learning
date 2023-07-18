@@ -1,0 +1,15 @@
+E:\c_sharp\5_common_operators\obj\Debug\net7.0\5_common_operators.csproj.AssemblyReference.cache
+E:\c_sharp\5_common_operators\obj\Debug\net7.0\5_common_operators.GeneratedMSBuildEditorConfig.editorconfig
+E:\c_sharp\5_common_operators\obj\Debug\net7.0\5_common_operators.AssemblyInfoInputs.cache
+E:\c_sharp\5_common_operators\obj\Debug\net7.0\5_common_operators.AssemblyInfo.cs
+E:\c_sharp\5_common_operators\obj\Debug\net7.0\5_common_operators.csproj.CoreCompileInputs.cache
+E:\c_sharp\5_common_operators\bin\Debug\net7.0\5_common_operators.exe
+E:\c_sharp\5_common_operators\bin\Debug\net7.0\5_common_operators.deps.json
+E:\c_sharp\5_common_operators\bin\Debug\net7.0\5_common_operators.runtimeconfig.json
+E:\c_sharp\5_common_operators\bin\Debug\net7.0\5_common_operators.dll
+E:\c_sharp\5_common_operators\bin\Debug\net7.0\5_common_operators.pdb
+E:\c_sharp\5_common_operators\obj\Debug\net7.0\5_common_operators.dll
+E:\c_sharp\5_common_operators\obj\Debug\net7.0\refint\5_common_operators.dll
+E:\c_sharp\5_common_operators\obj\Debug\net7.0\5_common_operators.pdb
+E:\c_sharp\5_common_operators\obj\Debug\net7.0\5_common_operators.genruntimeconfig.cache
+E:\c_sharp\5_common_operators\obj\Debug\net7.0\ref\5_common_operators.dll

@@ -1,0 +1,15 @@
+E:\c_sharp\16_methods\bin\Debug\net7.0\16_methods.exe
+E:\c_sharp\16_methods\bin\Debug\net7.0\16_methods.deps.json
+E:\c_sharp\16_methods\bin\Debug\net7.0\16_methods.runtimeconfig.json
+E:\c_sharp\16_methods\bin\Debug\net7.0\16_methods.dll
+E:\c_sharp\16_methods\bin\Debug\net7.0\16_methods.pdb
+E:\c_sharp\16_methods\obj\Debug\net7.0\16_methods.csproj.AssemblyReference.cache
+E:\c_sharp\16_methods\obj\Debug\net7.0\16_methods.GeneratedMSBuildEditorConfig.editorconfig
+E:\c_sharp\16_methods\obj\Debug\net7.0\16_methods.AssemblyInfoInputs.cache
+E:\c_sharp\16_methods\obj\Debug\net7.0\16_methods.AssemblyInfo.cs
+E:\c_sharp\16_methods\obj\Debug\net7.0\16_methods.csproj.CoreCompileInputs.cache
+E:\c_sharp\16_methods\obj\Debug\net7.0\16_methods.dll
+E:\c_sharp\16_methods\obj\Debug\net7.0\refint\16_methods.dll
+E:\c_sharp\16_methods\obj\Debug\net7.0\16_methods.pdb
+E:\c_sharp\16_methods\obj\Debug\net7.0\16_methods.genruntimeconfig.cache
+E:\c_sharp\16_methods\obj\Debug\net7.0\ref\16_methods.dll

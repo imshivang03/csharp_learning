@@ -1,0 +1,15 @@
+E:\c_sharp\6_2_null_coalescing_operator\bin\Debug\net7.0\6_2_null_coalescing_operator.exe
+E:\c_sharp\6_2_null_coalescing_operator\bin\Debug\net7.0\6_2_null_coalescing_operator.deps.json
+E:\c_sharp\6_2_null_coalescing_operator\bin\Debug\net7.0\6_2_null_coalescing_operator.runtimeconfig.json
+E:\c_sharp\6_2_null_coalescing_operator\bin\Debug\net7.0\6_2_null_coalescing_operator.dll
+E:\c_sharp\6_2_null_coalescing_operator\bin\Debug\net7.0\6_2_null_coalescing_operator.pdb
+E:\c_sharp\6_2_null_coalescing_operator\obj\Debug\net7.0\6_2_null_coalescing_operator.csproj.AssemblyReference.cache
+E:\c_sharp\6_2_null_coalescing_operator\obj\Debug\net7.0\6_2_null_coalescing_operator.GeneratedMSBuildEditorConfig.editorconfig
+E:\c_sharp\6_2_null_coalescing_operator\obj\Debug\net7.0\6_2_null_coalescing_operator.AssemblyInfoInputs.cache
+E:\c_sharp\6_2_null_coalescing_operator\obj\Debug\net7.0\6_2_null_coalescing_operator.AssemblyInfo.cs
+E:\c_sharp\6_2_null_coalescing_operator\obj\Debug\net7.0\6_2_null_coalescing_operator.csproj.CoreCompileInputs.cache
+E:\c_sharp\6_2_null_coalescing_operator\obj\Debug\net7.0\6_2_null_coalescing_operator.dll
+E:\c_sharp\6_2_null_coalescing_operator\obj\Debug\net7.0\refint\6_2_null_coalescing_operator.dll
+E:\c_sharp\6_2_null_coalescing_operator\obj\Debug\net7.0\6_2_null_coalescing_operator.pdb
+E:\c_sharp\6_2_null_coalescing_operator\obj\Debug\net7.0\6_2_null_coalescing_operator.genruntimeconfig.cache
+E:\c_sharp\6_2_null_coalescing_operator\obj\Debug\net7.0\ref\6_2_null_coalescing_operator.dll

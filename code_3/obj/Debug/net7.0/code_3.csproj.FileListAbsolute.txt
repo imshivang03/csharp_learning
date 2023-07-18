@@ -1,0 +1,15 @@
+E:\c_sharp\code_3\bin\Debug\net7.0\code_3.exe
+E:\c_sharp\code_3\bin\Debug\net7.0\code_3.deps.json
+E:\c_sharp\code_3\bin\Debug\net7.0\code_3.runtimeconfig.json
+E:\c_sharp\code_3\bin\Debug\net7.0\code_3.dll
+E:\c_sharp\code_3\bin\Debug\net7.0\code_3.pdb
+E:\c_sharp\code_3\obj\Debug\net7.0\code_3.csproj.AssemblyReference.cache
+E:\c_sharp\code_3\obj\Debug\net7.0\code_3.GeneratedMSBuildEditorConfig.editorconfig
+E:\c_sharp\code_3\obj\Debug\net7.0\code_3.AssemblyInfoInputs.cache
+E:\c_sharp\code_3\obj\Debug\net7.0\code_3.AssemblyInfo.cs
+E:\c_sharp\code_3\obj\Debug\net7.0\code_3.csproj.CoreCompileInputs.cache
+E:\c_sharp\code_3\obj\Debug\net7.0\code_3.dll
+E:\c_sharp\code_3\obj\Debug\net7.0\refint\code_3.dll
+E:\c_sharp\code_3\obj\Debug\net7.0\code_3.pdb
+E:\c_sharp\code_3\obj\Debug\net7.0\code_3.genruntimeconfig.cache
+E:\c_sharp\code_3\obj\Debug\net7.0\ref\code_3.dll

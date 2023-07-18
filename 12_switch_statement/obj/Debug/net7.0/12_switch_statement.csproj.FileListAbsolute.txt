@@ -1,0 +1,15 @@
+E:\c_sharp\12_switch_statement\bin\Debug\net7.0\12_switch_statement.exe
+E:\c_sharp\12_switch_statement\bin\Debug\net7.0\12_switch_statement.deps.json
+E:\c_sharp\12_switch_statement\bin\Debug\net7.0\12_switch_statement.runtimeconfig.json
+E:\c_sharp\12_switch_statement\bin\Debug\net7.0\12_switch_statement.dll
+E:\c_sharp\12_switch_statement\bin\Debug\net7.0\12_switch_statement.pdb
+E:\c_sharp\12_switch_statement\obj\Debug\net7.0\12_switch_statement.csproj.AssemblyReference.cache
+E:\c_sharp\12_switch_statement\obj\Debug\net7.0\12_switch_statement.GeneratedMSBuildEditorConfig.editorconfig
+E:\c_sharp\12_switch_statement\obj\Debug\net7.0\12_switch_statement.AssemblyInfoInputs.cache
+E:\c_sharp\12_switch_statement\obj\Debug\net7.0\12_switch_statement.AssemblyInfo.cs
+E:\c_sharp\12_switch_statement\obj\Debug\net7.0\12_switch_statement.csproj.CoreCompileInputs.cache
+E:\c_sharp\12_switch_statement\obj\Debug\net7.0\12_switch_statement.dll
+E:\c_sharp\12_switch_statement\obj\Debug\net7.0\refint\12_switch_statement.dll
+E:\c_sharp\12_switch_statement\obj\Debug\net7.0\12_switch_statement.pdb
+E:\c_sharp\12_switch_statement\obj\Debug\net7.0\12_switch_statement.genruntimeconfig.cache
+E:\c_sharp\12_switch_statement\obj\Debug\net7.0\ref\12_switch_statement.dll

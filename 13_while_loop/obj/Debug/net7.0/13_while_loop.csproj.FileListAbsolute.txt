@@ -1,0 +1,15 @@
+E:\c_sharp\13_while_loop\obj\Debug\net7.0\13_while_loop.csproj.AssemblyReference.cache
+E:\c_sharp\13_while_loop\obj\Debug\net7.0\13_while_loop.GeneratedMSBuildEditorConfig.editorconfig
+E:\c_sharp\13_while_loop\obj\Debug\net7.0\13_while_loop.AssemblyInfoInputs.cache
+E:\c_sharp\13_while_loop\obj\Debug\net7.0\13_while_loop.AssemblyInfo.cs
+E:\c_sharp\13_while_loop\obj\Debug\net7.0\13_while_loop.csproj.CoreCompileInputs.cache
+E:\c_sharp\13_while_loop\bin\Debug\net7.0\13_while_loop.exe
+E:\c_sharp\13_while_loop\bin\Debug\net7.0\13_while_loop.deps.json
+E:\c_sharp\13_while_loop\bin\Debug\net7.0\13_while_loop.runtimeconfig.json
+E:\c_sharp\13_while_loop\bin\Debug\net7.0\13_while_loop.dll
+E:\c_sharp\13_while_loop\bin\Debug\net7.0\13_while_loop.pdb
+E:\c_sharp\13_while_loop\obj\Debug\net7.0\13_while_loop.dll
+E:\c_sharp\13_while_loop\obj\Debug\net7.0\refint\13_while_loop.dll
+E:\c_sharp\13_while_loop\obj\Debug\net7.0\13_while_loop.pdb
+E:\c_sharp\13_while_loop\obj\Debug\net7.0\13_while_loop.genruntimeconfig.cache
+E:\c_sharp\13_while_loop\obj\Debug\net7.0\ref\13_while_loop.dll

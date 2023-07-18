@@ -1,0 +1,15 @@
+E:\c_sharp\8_arrays\bin\Debug\net7.0\8_arrays.exe
+E:\c_sharp\8_arrays\bin\Debug\net7.0\8_arrays.deps.json
+E:\c_sharp\8_arrays\bin\Debug\net7.0\8_arrays.runtimeconfig.json
+E:\c_sharp\8_arrays\bin\Debug\net7.0\8_arrays.dll
+E:\c_sharp\8_arrays\bin\Debug\net7.0\8_arrays.pdb
+E:\c_sharp\8_arrays\obj\Debug\net7.0\8_arrays.csproj.AssemblyReference.cache
+E:\c_sharp\8_arrays\obj\Debug\net7.0\8_arrays.GeneratedMSBuildEditorConfig.editorconfig
+E:\c_sharp\8_arrays\obj\Debug\net7.0\8_arrays.AssemblyInfoInputs.cache
+E:\c_sharp\8_arrays\obj\Debug\net7.0\8_arrays.AssemblyInfo.cs
+E:\c_sharp\8_arrays\obj\Debug\net7.0\8_arrays.csproj.CoreCompileInputs.cache
+E:\c_sharp\8_arrays\obj\Debug\net7.0\8_arrays.dll
+E:\c_sharp\8_arrays\obj\Debug\net7.0\refint\8_arrays.dll
+E:\c_sharp\8_arrays\obj\Debug\net7.0\8_arrays.pdb
+E:\c_sharp\8_arrays\obj\Debug\net7.0\8_arrays.genruntimeconfig.cache
+E:\c_sharp\8_arrays\obj\Debug\net7.0\ref\8_arrays.dll

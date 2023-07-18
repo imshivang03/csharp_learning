@@ -1,0 +1,15 @@
+E:\c_sharp\7_data_type_conversion\obj\Debug\net7.0\7_data_type_conversion.csproj.AssemblyReference.cache
+E:\c_sharp\7_data_type_conversion\obj\Debug\net7.0\7_data_type_conversion.GeneratedMSBuildEditorConfig.editorconfig
+E:\c_sharp\7_data_type_conversion\obj\Debug\net7.0\7_data_type_conversion.AssemblyInfoInputs.cache
+E:\c_sharp\7_data_type_conversion\obj\Debug\net7.0\7_data_type_conversion.AssemblyInfo.cs
+E:\c_sharp\7_data_type_conversion\obj\Debug\net7.0\7_data_type_conversion.csproj.CoreCompileInputs.cache
+E:\c_sharp\7_data_type_conversion\bin\Debug\net7.0\7_data_type_conversion.exe
+E:\c_sharp\7_data_type_conversion\bin\Debug\net7.0\7_data_type_conversion.deps.json
+E:\c_sharp\7_data_type_conversion\bin\Debug\net7.0\7_data_type_conversion.runtimeconfig.json
+E:\c_sharp\7_data_type_conversion\bin\Debug\net7.0\7_data_type_conversion.dll
+E:\c_sharp\7_data_type_conversion\bin\Debug\net7.0\7_data_type_conversion.pdb
+E:\c_sharp\7_data_type_conversion\obj\Debug\net7.0\7_data_type_conversion.dll
+E:\c_sharp\7_data_type_conversion\obj\Debug\net7.0\refint\7_data_type_conversion.dll
+E:\c_sharp\7_data_type_conversion\obj\Debug\net7.0\7_data_type_conversion.pdb
+E:\c_sharp\7_data_type_conversion\obj\Debug\net7.0\7_data_type_conversion.genruntimeconfig.cache
+E:\c_sharp\7_data_type_conversion\obj\Debug\net7.0\ref\7_data_type_conversion.dll

@@ -1,0 +1,15 @@
+E:\c_sharp\15_for_&_for_each_loop\obj\Debug\net7.0\15_for_&_for_each_loop.csproj.AssemblyReference.cache
+E:\c_sharp\15_for_&_for_each_loop\obj\Debug\net7.0\15_for_&_for_each_loop.GeneratedMSBuildEditorConfig.editorconfig
+E:\c_sharp\15_for_&_for_each_loop\obj\Debug\net7.0\15_for_&_for_each_loop.AssemblyInfoInputs.cache
+E:\c_sharp\15_for_&_for_each_loop\obj\Debug\net7.0\15_for_&_for_each_loop.AssemblyInfo.cs
+E:\c_sharp\15_for_&_for_each_loop\obj\Debug\net7.0\15_for_&_for_each_loop.csproj.CoreCompileInputs.cache
+E:\c_sharp\15_for_&_for_each_loop\bin\Debug\net7.0\15_for_&_for_each_loop.exe
+E:\c_sharp\15_for_&_for_each_loop\bin\Debug\net7.0\15_for_&_for_each_loop.deps.json
+E:\c_sharp\15_for_&_for_each_loop\bin\Debug\net7.0\15_for_&_for_each_loop.runtimeconfig.json
+E:\c_sharp\15_for_&_for_each_loop\bin\Debug\net7.0\15_for_&_for_each_loop.dll
+E:\c_sharp\15_for_&_for_each_loop\bin\Debug\net7.0\15_for_&_for_each_loop.pdb
+E:\c_sharp\15_for_&_for_each_loop\obj\Debug\net7.0\15_for_&_for_each_loop.dll
+E:\c_sharp\15_for_&_for_each_loop\obj\Debug\net7.0\refint\15_for_&_for_each_loop.dll
+E:\c_sharp\15_for_&_for_each_loop\obj\Debug\net7.0\15_for_&_for_each_loop.pdb
+E:\c_sharp\15_for_&_for_each_loop\obj\Debug\net7.0\15_for_&_for_each_loop.genruntimeconfig.cache
+E:\c_sharp\15_for_&_for_each_loop\obj\Debug\net7.0\ref\15_for_&_for_each_loop.dll

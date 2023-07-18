@@ -1,0 +1,15 @@
+E:\c_sharp\23_polymorphism\bin\Debug\net7.0\23_polymorphism.exe
+E:\c_sharp\23_polymorphism\bin\Debug\net7.0\23_polymorphism.deps.json
+E:\c_sharp\23_polymorphism\bin\Debug\net7.0\23_polymorphism.runtimeconfig.json
+E:\c_sharp\23_polymorphism\bin\Debug\net7.0\23_polymorphism.dll
+E:\c_sharp\23_polymorphism\bin\Debug\net7.0\23_polymorphism.pdb
+E:\c_sharp\23_polymorphism\obj\Debug\net7.0\23_polymorphism.csproj.AssemblyReference.cache
+E:\c_sharp\23_polymorphism\obj\Debug\net7.0\23_polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+E:\c_sharp\23_polymorphism\obj\Debug\net7.0\23_polymorphism.AssemblyInfoInputs.cache
+E:\c_sharp\23_polymorphism\obj\Debug\net7.0\23_polymorphism.AssemblyInfo.cs
+E:\c_sharp\23_polymorphism\obj\Debug\net7.0\23_polymorphism.csproj.CoreCompileInputs.cache
+E:\c_sharp\23_polymorphism\obj\Debug\net7.0\23_polymorphism.dll
+E:\c_sharp\23_polymorphism\obj\Debug\net7.0\refint\23_polymorphism.dll
+E:\c_sharp\23_polymorphism\obj\Debug\net7.0\23_polymorphism.pdb
+E:\c_sharp\23_polymorphism\obj\Debug\net7.0\23_polymorphism.genruntimeconfig.cache
+E:\c_sharp\23_polymorphism\obj\Debug\net7.0\ref\23_polymorphism.dll

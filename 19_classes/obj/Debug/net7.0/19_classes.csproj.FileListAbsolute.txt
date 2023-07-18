@@ -1,0 +1,15 @@
+E:\c_sharp\19_classes\bin\Debug\net7.0\19_classes.exe
+E:\c_sharp\19_classes\bin\Debug\net7.0\19_classes.deps.json
+E:\c_sharp\19_classes\bin\Debug\net7.0\19_classes.runtimeconfig.json
+E:\c_sharp\19_classes\bin\Debug\net7.0\19_classes.dll
+E:\c_sharp\19_classes\bin\Debug\net7.0\19_classes.pdb
+E:\c_sharp\19_classes\obj\Debug\net7.0\19_classes.csproj.AssemblyReference.cache
+E:\c_sharp\19_classes\obj\Debug\net7.0\19_classes.GeneratedMSBuildEditorConfig.editorconfig
+E:\c_sharp\19_classes\obj\Debug\net7.0\19_classes.AssemblyInfoInputs.cache
+E:\c_sharp\19_classes\obj\Debug\net7.0\19_classes.AssemblyInfo.cs
+E:\c_sharp\19_classes\obj\Debug\net7.0\19_classes.csproj.CoreCompileInputs.cache
+E:\c_sharp\19_classes\obj\Debug\net7.0\19_classes.dll
+E:\c_sharp\19_classes\obj\Debug\net7.0\refint\19_classes.dll
+E:\c_sharp\19_classes\obj\Debug\net7.0\19_classes.pdb
+E:\c_sharp\19_classes\obj\Debug\net7.0\19_classes.genruntimeconfig.cache
+E:\c_sharp\19_classes\obj\Debug\net7.0\ref\19_classes.dll
