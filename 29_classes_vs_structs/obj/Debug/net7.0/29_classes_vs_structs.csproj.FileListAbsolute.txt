@@ -1,0 +1,15 @@
+E:\c_sharp\29_classes_vs_structs\bin\Debug\net7.0\29_classes_vs_structs.exe
+E:\c_sharp\29_classes_vs_structs\bin\Debug\net7.0\29_classes_vs_structs.deps.json
+E:\c_sharp\29_classes_vs_structs\bin\Debug\net7.0\29_classes_vs_structs.runtimeconfig.json
+E:\c_sharp\29_classes_vs_structs\bin\Debug\net7.0\29_classes_vs_structs.dll
+E:\c_sharp\29_classes_vs_structs\bin\Debug\net7.0\29_classes_vs_structs.pdb
+E:\c_sharp\29_classes_vs_structs\obj\Debug\net7.0\29_classes_vs_structs.csproj.AssemblyReference.cache
+E:\c_sharp\29_classes_vs_structs\obj\Debug\net7.0\29_classes_vs_structs.GeneratedMSBuildEditorConfig.editorconfig
+E:\c_sharp\29_classes_vs_structs\obj\Debug\net7.0\29_classes_vs_structs.AssemblyInfoInputs.cache
+E:\c_sharp\29_classes_vs_structs\obj\Debug\net7.0\29_classes_vs_structs.AssemblyInfo.cs
+E:\c_sharp\29_classes_vs_structs\obj\Debug\net7.0\29_classes_vs_structs.csproj.CoreCompileInputs.cache
+E:\c_sharp\29_classes_vs_structs\obj\Debug\net7.0\29_classes_vs_structs.dll
+E:\c_sharp\29_classes_vs_structs\obj\Debug\net7.0\refint\29_classes_vs_structs.dll
+E:\c_sharp\29_classes_vs_structs\obj\Debug\net7.0\29_classes_vs_structs.pdb
+E:\c_sharp\29_classes_vs_structs\obj\Debug\net7.0\29_classes_vs_structs.genruntimeconfig.cache
+E:\c_sharp\29_classes_vs_structs\obj\Debug\net7.0\ref\29_classes_vs_structs.dll
